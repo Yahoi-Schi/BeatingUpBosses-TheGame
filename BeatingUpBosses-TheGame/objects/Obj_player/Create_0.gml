@@ -1,0 +1,1 @@
+quickness = 4 * 32 //cuantas casillas * tamaño de la casilla (se asumen cuadradas)
